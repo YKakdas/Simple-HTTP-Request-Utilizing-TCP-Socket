@@ -2,5 +2,5 @@
 
 This projects simulates a simple HTTP request by just using pure Java TCP sockets.
 
--   Host: example.com
--   Request: GET
+-   Host: `example.com`
+-   Request: `GET`
